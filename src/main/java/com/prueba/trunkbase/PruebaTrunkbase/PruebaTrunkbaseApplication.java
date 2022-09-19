@@ -8,6 +8,8 @@ public class PruebaTrunkbaseApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PruebaTrunkbaseApplication.class, args);
+		System.out.println("Hello");
+		
 	}
 
 }
